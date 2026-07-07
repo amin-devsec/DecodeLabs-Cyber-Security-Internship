@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <title>Password Strength Checker</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Password Strength Checker</h1>
+        <input type="password" id="passwordInput" placeholder="Enter your password...">
+        <button id="toggleBtn">Show</button>
+        <div class="progress-bar"><div id="progress"></div></div>
+        <div id="results"></div>
+        <div id="results">
+    <p>Strength: <span id="strengthLabel">-</span></p>
+    <div id="stats"></div>
+</div>
+
+        <button id="generateBtn">Generate Secure Password</button>
+    </div>
+    
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
