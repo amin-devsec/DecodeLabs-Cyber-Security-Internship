@@ -41,8 +41,9 @@ Project-01-Password-Strength-Checker/
 │   ├── css/
 │   └── js/
 ├── templates/
-   └── index.html
-
+│   └── index.html
+└── wordlists/
+    └── common_passwords.txt
 ```
 
 ---
