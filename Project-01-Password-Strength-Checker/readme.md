@@ -20,4 +20,4 @@ A secure, real-time password analysis tool designed to educate users on password
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/amin-devsec/DecodeLabs-Cyber-Security-Internship.git](https://github.com/amin-devsec/DecodeLabs-Cyber-Security-Internship.git)
-   cd password-strength-checker
+   cd DecodeLabs-Cyber-Security-Internship/Project-01-Password-Strength-Checker
