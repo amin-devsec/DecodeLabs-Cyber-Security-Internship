@@ -11,7 +11,7 @@ This internship focuses on building practical cybersecurity skills through hands
 | No. | Project | Status |
 |-----|---------|--------|
 | 01 | Password Strength Checker | ✅ Completed |
-| 02 | Coming Soon | ⏳ |
+| 02 | Basic Encryption Decryption | ✅ Completed |
 | 03 | Coming Soon | ⏳ |
 | 04 | Coming Soon | ⏳ |
 | 05 | Coming Soon | ⏳ |
